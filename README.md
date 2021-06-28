@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @codeninjanz
-- 👀 I’m a full stack web developer from Auckland, New Zealand
-- 🌱 I primarily work with PHP, Laravel, HTML, CSS and Javascript
-- 💞️ I’m looking for contract work
+- 👋 Hi, I’m Ahmed, I’m a full stack web developer from Auckland, New Zealand.
+- I primarily work with PHP, Laravel, HTML, CSS and Javascript.
+- I’m currently looking for contract work.
 - 📫 Reach me at info@codeninja.co.nz
 
 <!---
